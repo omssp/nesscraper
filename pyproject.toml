@@ -7,6 +7,10 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
 numpy = "^1.22.2"
+bs4 = "^0.0.1"
+pandas = "^1.4.2"
+requests = "^2.27.1"
+patool = "^1.12"
 
 [tool.poetry.dev-dependencies]
 
