@@ -11,6 +11,7 @@ bs4 = "^0.0.1"
 pandas = "^1.4.2"
 requests = "^2.27.1"
 patool = "^1.12"
+python-slugify = "^6.1.2"
 
 [tool.poetry.dev-dependencies]
 

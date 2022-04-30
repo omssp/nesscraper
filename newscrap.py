@@ -1,2 +1,0 @@
-"https://www.romstation.fr/games?game_title=mario&consoles_id%5B%5D=19%2FNES&game_players=&release_date_min=&release_date_max=&dev_edit_name=&excludes%5B%5D=demo%2FDemo&excludes%5B%5D=fangame%2FFangame&excludes%5B%5D=hack%2FHackrom&excludes%5B%5D=homebrew%2FHomebrew&order_disp=rating%2FTop+rated&rs_page=1&letter=&uploader_id="
-for images
