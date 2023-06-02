@@ -1,0 +1,233 @@
+[
+    {
+        "slug": "1-pokemon-fire-red-version",
+        "name": "Pokemon Fire Red Version",
+        "nes": "roms-gba/1-pokemon-fire-red-version.gba",
+        "image": "roms-gba/1-pokemon-fire-red-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/224.jpg?1668906466"
+    },
+    {
+        "slug": "2-pokemon-emerald-version",
+        "name": "Pokemon Emerald Version",
+        "nes": "roms-gba/2-pokemon-emerald-version.gba",
+        "image": "roms-gba/2-pokemon-emerald-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/557.jpg?1605121472"
+    },
+    {
+        "slug": "3-super-mario-advance-2-super-mario-world",
+        "name": "Super Mario Advance 2 Super Mario World",
+        "nes": "roms-gba/3-super-mario-advance-2-super-mario-world.gba",
+        "image": "roms-gba/3-super-mario-advance-2-super-mario-world.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/622.jpg?1657989160"
+    },
+    {
+        "slug": "4-legend-of-zelda-minish-cap",
+        "name": "Legend Of Zelda Minish Cap",
+        "nes": "roms-gba/4-legend-of-zelda-minish-cap.gba",
+        "image": "roms-gba/4-legend-of-zelda-minish-cap.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/51608.jpg?1659121980"
+    },
+    {
+        "slug": "5-pokemon-ruby-version",
+        "name": "Pokemon Ruby Version",
+        "nes": "roms-gba/5-pokemon-ruby-version.gba",
+        "image": "roms-gba/5-pokemon-ruby-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/555.jpg?1641587424"
+    },
+    {
+        "slug": "6-kirby-nightmare-in-dreamland",
+        "name": "Kirby Nightmare In Dreamland",
+        "nes": "roms-gba/6-kirby-nightmare-in-dreamland.gba",
+        "image": "roms-gba/6-kirby-nightmare-in-dreamland.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/199.jpg?1620390431"
+    },
+    {
+        "slug": "7-mario-kart-super-circuit",
+        "name": "Mario Kart Super Circuit",
+        "nes": "roms-gba/7-mario-kart-super-circuit.gba",
+        "image": "roms-gba/7-mario-kart-super-circuit.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/208.jpg?1620026464"
+    },
+    {
+        "slug": "8-pokemon-leaf-green-version",
+        "name": "Pokemon Leaf Green Version",
+        "nes": "roms-gba/8-pokemon-leaf-green-version.gba",
+        "image": "roms-gba/8-pokemon-leaf-green-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/225.jpg?1579977486"
+    },
+    {
+        "slug": "9-mario-luigi-superstar-saga",
+        "name": "Mario Luigi Superstar Saga",
+        "nes": "roms-gba/9-mario-luigi-superstar-saga.gba",
+        "image": "roms-gba/9-mario-luigi-superstar-saga.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/50408.jpg?1669130867"
+    },
+    {
+        "slug": "10-pokemon-sapphire-version",
+        "name": "Pokemon Sapphire Version",
+        "nes": "roms-gba/10-pokemon-sapphire-version.gba",
+        "image": "roms-gba/10-pokemon-sapphire-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/556.jpg?1660552206"
+    },
+    {
+        "slug": "11-kirby-amazing-mirror",
+        "name": "Kirby Amazing Mirror",
+        "nes": "roms-gba/11-kirby-amazing-mirror.gba",
+        "image": "roms-gba/11-kirby-amazing-mirror.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/922.jpg?1623507401"
+    },
+    {
+        "slug": "12-fire-emblem",
+        "name": "Fire Emblem",
+        "nes": "roms-gba/12-fire-emblem.gba",
+        "image": "roms-gba/12-fire-emblem.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/171.jpg?1675862542"
+    },
+    {
+        "slug": "13-naruto-ninja-council-2",
+        "name": "Naruto Ninja Council 2",
+        "nes": "roms-gba/13-naruto-ninja-council-2.gba",
+        "image": "roms-gba/13-naruto-ninja-council-2.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/527.jpg?1631914683"
+    },
+    {
+        "slug": "14-super-mario-advance",
+        "name": "Super Mario Advance",
+        "nes": "roms-gba/14-super-mario-advance.gba",
+        "image": "roms-gba/14-super-mario-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/706.jpg?1627807618"
+    },
+    {
+        "slug": "15-metal-slug-advance",
+        "name": "Metal Slug Advance",
+        "nes": "roms-gba/15-metal-slug-advance.gba",
+        "image": "roms-gba/15-metal-slug-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/50987.jpg?1492481830"
+    },
+    {
+        "slug": "16-pokemon-mystery-dungeon-red-rescue-team",
+        "name": "Pokemon Mystery Dungeon Red Rescue Team",
+        "nes": "roms-gba/16-pokemon-mystery-dungeon-red-rescue-team.gba",
+        "image": "roms-gba/16-pokemon-mystery-dungeon-red-rescue-team.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/593.jpg?1667474158"
+    },
+    {
+        "slug": "17-golden-sun",
+        "name": "Golden Sun",
+        "nes": "roms-gba/17-golden-sun.gba",
+        "image": "roms-gba/17-golden-sun.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/173.jpg?1672741345"
+    },
+    {
+        "slug": "18-mortal-kombat-advance",
+        "name": "Mortal Kombat Advance",
+        "nes": "roms-gba/18-mortal-kombat-advance.gba",
+        "image": "roms-gba/18-mortal-kombat-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/20992.jpg?0"
+    },
+    {
+        "slug": "19-street-fighter-alpha-3",
+        "name": "Street Fighter Alpha 3",
+        "nes": "roms-gba/19-street-fighter-alpha-3.gba",
+        "image": "roms-gba/19-street-fighter-alpha-3.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/932.jpg?1615552315"
+    },
+    {
+        "slug": "20-final-fantasy-vi-advance",
+        "name": "Final Fantasy Vi Advance",
+        "nes": "roms-gba/20-final-fantasy-vi-advance.gba",
+        "image": "roms-gba/20-final-fantasy-vi-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/563.jpg?1492702229"
+    },
+    {
+        "slug": "21-castlevania-aria-of-sorrow",
+        "name": "Castlevania Aria Of Sorrow",
+        "nes": "roms-gba/21-castlevania-aria-of-sorrow.gba",
+        "image": "roms-gba/21-castlevania-aria-of-sorrow.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/158.jpg?1658760313"
+    },
+    {
+        "slug": "22-legend-of-zelda-minish-cap-e",
+        "name": "Legend Of Zelda Minish Cap",
+        "nes": "roms-gba/22-legend-of-zelda-minish-cap-e.gba",
+        "image": "roms-gba/22-legend-of-zelda-minish-cap-e.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/79577.jpg?1664436378"
+    },
+    {
+        "slug": "23-super-mario-advance-4-super-mario-bros-3",
+        "name": "Super Mario Advance 4 Super Mario Bros 3",
+        "nes": "roms-gba/23-super-mario-advance-4-super-mario-bros-3.gba",
+        "image": "roms-gba/23-super-mario-advance-4-super-mario-bros-3.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/706.jpg?1627807618"
+    },
+    {
+        "slug": "24-sonic-battle",
+        "name": "Sonic Battle",
+        "nes": "roms-gba/24-sonic-battle.gba",
+        "image": "roms-gba/24-sonic-battle.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/819.jpg?1615397473"
+    },
+    {
+        "slug": "25-mario-vs-donkey-kong",
+        "name": "Mario Vs Donkey Kong",
+        "nes": "roms-gba/25-mario-vs-donkey-kong.gba",
+        "image": "roms-gba/25-mario-vs-donkey-kong.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/924.jpg?0"
+    },
+    {
+        "slug": "26-castlevania-circle-of-moon",
+        "name": "Castlevania Circle Of Moon",
+        "nes": "roms-gba/26-castlevania-circle-of-moon.gba",
+        "image": "roms-gba/26-castlevania-circle-of-moon.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/40011.jpg?1611436391"
+    },
+    {
+        "slug": "27-metroid-fusion",
+        "name": "Metroid Fusion",
+        "nes": "roms-gba/27-metroid-fusion.gba",
+        "image": "roms-gba/27-metroid-fusion.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/609.jpg?1629636708"
+    },
+    {
+        "slug": "28-sonic-advance",
+        "name": "Sonic Advance",
+        "nes": "roms-gba/28-sonic-advance.gba",
+        "image": "roms-gba/28-sonic-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/596.jpg?1657903359"
+    },
+    {
+        "slug": "29-yu-gi-oh-sacred-cards",
+        "name": "Yu Gi Oh Sacred Cards",
+        "nes": "roms-gba/29-yu-gi-oh-sacred-cards.gba",
+        "image": "roms-gba/29-yu-gi-oh-sacred-cards.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/37965.jpg?1662637246"
+    },
+    {
+        "slug": "30-golden-sun-lost-age",
+        "name": "Golden Sun Lost Age",
+        "nes": "roms-gba/30-golden-sun-lost-age.gba",
+        "image": "roms-gba/30-golden-sun-lost-age.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/571.jpg?1604784642"
+    },
+    {
+        "slug": "31-dragon-ball-advanced-adventure",
+        "name": "Dragon Ball Advanced Adventure",
+        "nes": "roms-gba/31-dragon-ball-advanced-adventure.gba",
+        "image": "roms-gba/31-dragon-ball-advanced-adventure.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/581.jpg?1665870790"
+    },
+    {
+        "slug": "32-mario-power-tennis-e",
+        "name": "Mario Power Tennis",
+        "nes": "roms-gba/32-mario-power-tennis-e.gba",
+        "image": "roms-gba/32-mario-power-tennis-e.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/20817.jpg?1455219846"
+    },
+    {
+        "slug": "33-grand-theft-auto-advance",
+        "name": "Grand Theft Auto Advance",
+        "nes": "roms-gba/33-grand-theft-auto-advance.gba",
+        "image": "roms-gba/33-grand-theft-auto-advance.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gba/cover/176.jpg?1639330975"
+    }
+]

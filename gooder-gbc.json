@@ -1,0 +1,548 @@
+[
+    {
+        "slug": "1-pokemon-gold-version",
+        "name": "Pokemon Gold Version",
+        "nes": "roms-gbc/1-pokemon-gold-version.gbc",
+        "image": "roms-gbc/1-pokemon-gold-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29355.jpg?1670605939"
+    },
+    {
+        "slug": "2-pokemon-silver-version",
+        "name": "Pokemon Silver Version",
+        "nes": "roms-gbc/2-pokemon-silver-version.gbc",
+        "image": "roms-gbc/2-pokemon-silver-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29458.jpg?1580129098"
+    },
+    {
+        "slug": "3-legend-of-zelda-oracle-of-seasons",
+        "name": "Legend Of Zelda Oracle Of Seasons",
+        "nes": "roms-gbc/3-legend-of-zelda-oracle-of-seasons.gbc",
+        "image": "roms-gbc/3-legend-of-zelda-oracle-of-seasons.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29465.jpg?1658864325"
+    },
+    {
+        "slug": "4-donkey-kong-country",
+        "name": "Donkey Kong Country",
+        "nes": "roms-gbc/4-donkey-kong-country.gbc",
+        "image": "roms-gbc/4-donkey-kong-country.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16839.jpg?1549020300"
+    },
+    {
+        "slug": "5-pokemon-trading-card-game",
+        "name": "Pokemon Trading Card Game",
+        "nes": "roms-gbc/5-pokemon-trading-card-game.gbc",
+        "image": "roms-gbc/5-pokemon-trading-card-game.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17509.jpg?1607013150"
+    },
+    {
+        "slug": "6-tetris-dx",
+        "name": "Tetris Dx",
+        "nes": "roms-gbc/6-tetris-dx.gbc",
+        "image": "roms-gbc/6-tetris-dx.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17780.jpg?1584400159"
+    },
+    {
+        "slug": "7-mario-tennis",
+        "name": "Mario Tennis",
+        "nes": "roms-gbc/7-mario-tennis.gbc",
+        "image": "roms-gbc/7-mario-tennis.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17260.jpg?1608798537"
+    },
+    {
+        "slug": "8-dragon-ball-z-legendary-super-warriors",
+        "name": "Dragon Ball Z Legendary Super Warriors",
+        "nes": "roms-gbc/8-dragon-ball-z-legendary-super-warriors.gbc",
+        "image": "roms-gbc/8-dragon-ball-z-legendary-super-warriors.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16863.jpg?1659114689"
+    },
+    {
+        "slug": "9-metal-gear-solid",
+        "name": "Metal Gear Solid",
+        "nes": "roms-gbc/9-metal-gear-solid.gbc",
+        "image": "roms-gbc/9-metal-gear-solid.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17300.jpg?1634885163"
+    },
+    {
+        "slug": "10-pokemon-pinball",
+        "name": "Pokemon Pinball",
+        "nes": "roms-gbc/10-pokemon-pinball.gbc",
+        "image": "roms-gbc/10-pokemon-pinball.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17503.jpg?1561809867"
+    },
+    {
+        "slug": "11-harry-potter-and-chamber-of-secrets",
+        "name": "Harry Potter And Chamber Of Secrets",
+        "nes": "roms-gbc/11-harry-potter-and-chamber-of-secrets.gbc",
+        "image": "roms-gbc/11-harry-potter-and-chamber-of-secrets.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29996.jpg?1604756484"
+    },
+    {
+        "slug": "12-legend-of-zelda-oracle-of-ages",
+        "name": "Legend Of Zelda Oracle Of Ages",
+        "nes": "roms-gbc/12-legend-of-zelda-oracle-of-ages.gbc",
+        "image": "roms-gbc/12-legend-of-zelda-oracle-of-ages.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29464.jpg?1675875421"
+    },
+    {
+        "slug": "13-shantae",
+        "name": "Shantae",
+        "nes": "roms-gbc/13-shantae.gbc",
+        "image": "roms-gbc/13-shantae.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17662.jpg?1549524936"
+    },
+    {
+        "slug": "14-resident-evil-gaiden",
+        "name": "Resident Evil Gaiden",
+        "nes": "roms-gbc/14-resident-evil-gaiden.gbc",
+        "image": "roms-gbc/14-resident-evil-gaiden.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17591.jpg?1491488837"
+    },
+    {
+        "slug": "15-grand-theft-auto",
+        "name": "Grand Theft Auto",
+        "nes": "roms-gbc/15-grand-theft-auto.gbc",
+        "image": "roms-gbc/15-grand-theft-auto.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16994.jpg?1604709392"
+    },
+    {
+        "slug": "16-tom-and-jerry-in-mouse-attacks",
+        "name": "Tom And Jerry In Mouse Attacks",
+        "nes": "roms-gbc/16-tom-and-jerry-in-mouse-attacks.gbc",
+        "image": "roms-gbc/16-tom-and-jerry-in-mouse-attacks.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17798.jpg?0"
+    },
+    {
+        "slug": "17-tomb-raider-curse-of-sword",
+        "name": "Tomb Raider Curse Of Sword",
+        "nes": "roms-gbc/17-tomb-raider-curse-of-sword.gbc",
+        "image": "roms-gbc/17-tomb-raider-curse-of-sword.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17801.jpg?1548374731"
+    },
+    {
+        "slug": "18-ghosts-n-goblins",
+        "name": "Ghosts N Goblins",
+        "nes": "roms-gbc/18-ghosts-n-goblins.gbc",
+        "image": "roms-gbc/18-ghosts-n-goblins.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16975.jpg?1525057366"
+    },
+    {
+        "slug": "19-spongebob-squarepants-legend-of-lost-spatula",
+        "name": "Spongebob Squarepants Legend Of Lost Spatula",
+        "nes": "roms-gbc/19-spongebob-squarepants-legend-of-lost-spatula.gbc",
+        "image": "roms-gbc/19-spongebob-squarepants-legend-of-lost-spatula.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/69318.jpg?1614119843"
+    },
+    {
+        "slug": "20-harry-potter-and-sorcerer-s-stone",
+        "name": "Harry Potter And Sorcerer S Stone",
+        "nes": "roms-gbc/20-harry-potter-and-sorcerer-s-stone.gbc",
+        "image": "roms-gbc/20-harry-potter-and-sorcerer-s-stone.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/67103.jpg?1668876771"
+    },
+    {
+        "slug": "21-toy-story-2",
+        "name": "Toy Story 2",
+        "nes": "roms-gbc/21-toy-story-2.gbc",
+        "image": "roms-gbc/21-toy-story-2.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17828.jpg?1550443607"
+    },
+    {
+        "slug": "22-street-fighter-alpha-warriors-dreams",
+        "name": "Street Fighter Alpha Warriors Dreams",
+        "nes": "roms-gbc/22-street-fighter-alpha-warriors-dreams.gbc",
+        "image": "roms-gbc/22-street-fighter-alpha-warriors-dreams.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17718.jpg?1669068639"
+    },
+    {
+        "slug": "23-yu-gi-oh-dark-duel-stories",
+        "name": "Yu Gi Oh Dark Duel Stories",
+        "nes": "roms-gbc/23-yu-gi-oh-dark-duel-stories.gbc",
+        "image": "roms-gbc/23-yu-gi-oh-dark-duel-stories.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17929.jpg?1681122238"
+    },
+    {
+        "slug": "24-scooby-doo-classic-creep-capers",
+        "name": "Scooby Doo Classic Creep Capers",
+        "nes": "roms-gbc/24-scooby-doo-classic-creep-capers.gbc",
+        "image": "roms-gbc/24-scooby-doo-classic-creep-capers.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17648.jpg?1665996767"
+    },
+    {
+        "slug": "25-tom-clancy-s-rainbow-six",
+        "name": "Tom Clancy S Rainbow Six",
+        "nes": "roms-gbc/25-tom-clancy-s-rainbow-six.gbc",
+        "image": "roms-gbc/25-tom-clancy-s-rainbow-six.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17792.jpg?1633440480"
+    },
+    {
+        "slug": "26-harvest-moon-3-gbc",
+        "name": "Harvest Moon 3 Gbc",
+        "nes": "roms-gbc/26-harvest-moon-3-gbc.gbc",
+        "image": "roms-gbc/26-harvest-moon-3-gbc.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/47672.jpg?1610107815"
+    },
+    {
+        "slug": "27-dragon-warrior-iii",
+        "name": "Dragon Warrior Iii",
+        "nes": "roms-gbc/27-dragon-warrior-iii.gbc",
+        "image": "roms-gbc/27-dragon-warrior-iii.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/34105.jpg?1613572969"
+    },
+    {
+        "slug": "28-aladdin",
+        "name": "Aladdin",
+        "nes": "roms-gbc/28-aladdin.gbc",
+        "image": "roms-gbc/28-aladdin.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16589.jpg?1581335256"
+    },
+    {
+        "slug": "29-shrek-fairy-tale-freakdown",
+        "name": "Shrek Fairy Tale Freakdown",
+        "nes": "roms-gbc/29-shrek-fairy-tale-freakdown.gbc",
+        "image": "roms-gbc/29-shrek-fairy-tale-freakdown.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/64965.jpg?1604194394"
+    },
+    {
+        "slug": "30-metal-gear-solid",
+        "name": "Metal Gear Solid",
+        "nes": "roms-gbc/30-metal-gear-solid.gbc",
+        "image": "roms-gbc/30-metal-gear-solid.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17300.jpg?1634885163"
+    },
+    {
+        "slug": "31-dragon-ball-z-i-leggendari-super-guerrieri",
+        "name": "Dragon Ball Z I Leggendari Super Guerrieri",
+        "nes": "roms-gbc/31-dragon-ball-z-i-leggendari-super-guerrieri.gbc",
+        "image": "roms-gbc/31-dragon-ball-z-i-leggendari-super-guerrieri.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16860.jpg?1659114655"
+    },
+    {
+        "slug": "32-lufia-legend-returns",
+        "name": "Lufia Legend Returns",
+        "nes": "roms-gbc/32-lufia-legend-returns.gbc",
+        "image": "roms-gbc/32-lufia-legend-returns.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/36683.jpg?1659170829"
+    },
+    {
+        "slug": "33-007-world-is-not-enough",
+        "name": "007 World Is Not Enough",
+        "nes": "roms-gbc/33-007-world-is-not-enough.gbc",
+        "image": "roms-gbc/33-007-world-is-not-enough.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16566.jpg?1608211521"
+    },
+    {
+        "slug": "34-pokemon-trading-card-game-e",
+        "name": "Pokemon Trading Card Game",
+        "nes": "roms-gbc/34-pokemon-trading-card-game-e.gbc",
+        "image": "roms-gbc/34-pokemon-trading-card-game-e.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17509.jpg?1607013150"
+    },
+    {
+        "slug": "35-mortal-kombat-4",
+        "name": "Mortal Kombat 4",
+        "nes": "roms-gbc/35-mortal-kombat-4.gbc",
+        "image": "roms-gbc/35-mortal-kombat-4.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17349.jpg?1683460183"
+    },
+    {
+        "slug": "36-power-quest",
+        "name": "Power Quest",
+        "nes": "roms-gbc/36-power-quest.gbc",
+        "image": "roms-gbc/36-power-quest.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17523.jpg?1653555433"
+    },
+    {
+        "slug": "37-dragon-warrior-i-ii",
+        "name": "Dragon Warrior I Ii",
+        "nes": "roms-gbc/37-dragon-warrior-i-ii.gbc",
+        "image": "roms-gbc/37-dragon-warrior-i-ii.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/34105.jpg?1613572969"
+    },
+    {
+        "slug": "38-pac-man-special-color-edition",
+        "name": "Pac Man Special Color Edition",
+        "nes": "roms-gbc/38-pac-man-special-color-edition.gbc",
+        "image": "roms-gbc/38-pac-man-special-color-edition.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17353.jpg?1616502051"
+    },
+    {
+        "slug": "39-earthworm-jim-menace-2-galaxy",
+        "name": "Earthworm Jim Menace 2 Galaxy",
+        "nes": "roms-gbc/39-earthworm-jim-menace-2-galaxy.gbc",
+        "image": "roms-gbc/39-earthworm-jim-menace-2-galaxy.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/37797.jpg?1398190239"
+    },
+    {
+        "slug": "40-game-watch-gallery-2",
+        "name": "Game Watch Gallery 2",
+        "nes": "roms-gbc/40-game-watch-gallery-2.gbc",
+        "image": "roms-gbc/40-game-watch-gallery-2.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16949.jpg?1626930785"
+    },
+    {
+        "slug": "41-x-men-mutant-academy",
+        "name": "X Men Mutant Academy",
+        "nes": "roms-gbc/41-x-men-mutant-academy.gbc",
+        "image": "roms-gbc/41-x-men-mutant-academy.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17911.jpg?1681563254"
+    },
+    {
+        "slug": "42-bionic-commando-elite-forces",
+        "name": "Bionic Commando Elite Forces",
+        "nes": "roms-gbc/42-bionic-commando-elite-forces.gbc",
+        "image": "roms-gbc/42-bionic-commando-elite-forces.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/36671.jpg?1660283277"
+    },
+    {
+        "slug": "43-buzz-lightyear-of-star-command",
+        "name": "Buzz Lightyear Of Star Command",
+        "nes": "roms-gbc/43-buzz-lightyear-of-star-command.gbc",
+        "image": "roms-gbc/43-buzz-lightyear-of-star-command.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16645.jpg?1625034753"
+    },
+    {
+        "slug": "44-game-watch-gallery-3",
+        "name": "Game Watch Gallery 3",
+        "nes": "roms-gbc/44-game-watch-gallery-3.gbc",
+        "image": "roms-gbc/44-game-watch-gallery-3.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16953.jpg?1626930988"
+    },
+    {
+        "slug": "45-resident-evil-gaiden",
+        "name": "Resident Evil Gaiden",
+        "nes": "roms-gbc/45-resident-evil-gaiden.gbc",
+        "image": "roms-gbc/45-resident-evil-gaiden.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17591.jpg?1491488837"
+    },
+    {
+        "slug": "46-hot-wheels-stunt-track-driver",
+        "name": "Hot Wheels Stunt Track Driver",
+        "nes": "roms-gbc/46-hot-wheels-stunt-track-driver.gbc",
+        "image": "roms-gbc/46-hot-wheels-stunt-track-driver.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/39749.jpg?1655105515"
+    },
+    {
+        "slug": "47-spider-man-2-sinister-six",
+        "name": "Spider Man 2 Sinister Six",
+        "nes": "roms-gbc/47-spider-man-2-sinister-six.gbc",
+        "image": "roms-gbc/47-spider-man-2-sinister-six.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/49160.jpg?1673177192"
+    },
+    {
+        "slug": "48-alice-in-wonderland",
+        "name": "Alice In Wonderland",
+        "nes": "roms-gbc/48-alice-in-wonderland.gbc",
+        "image": "roms-gbc/48-alice-in-wonderland.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16592.jpg?1685195797"
+    },
+    {
+        "slug": "49-simpsons-night-of-living-treehouse-of-horror",
+        "name": "Simpsons Night Of Living Treehouse Of Horror",
+        "nes": "roms-gbc/49-simpsons-night-of-living-treehouse-of-horror.gbc",
+        "image": "roms-gbc/49-simpsons-night-of-living-treehouse-of-horror.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17672.jpg?1608155864"
+    },
+    {
+        "slug": "50-classic-bubble-bobble",
+        "name": "Classic Bubble Bobble",
+        "nes": "roms-gbc/50-classic-bubble-bobble.gbc",
+        "image": "roms-gbc/50-classic-bubble-bobble.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16762.jpg?1666028070"
+    },
+    {
+        "slug": "51-perfect-dark",
+        "name": "Perfect Dark",
+        "nes": "roms-gbc/51-perfect-dark.gbc",
+        "image": "roms-gbc/51-perfect-dark.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17431.jpg?1549402924"
+    },
+    {
+        "slug": "52-grand-theft-auto-2",
+        "name": "Grand Theft Auto 2",
+        "nes": "roms-gbc/52-grand-theft-auto-2.gbc",
+        "image": "roms-gbc/52-grand-theft-auto-2.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17001.jpg?1601287146"
+    },
+    {
+        "slug": "53-dragon-warrior-monsters-2-cobi-s-journey",
+        "name": "Dragon Warrior Monsters 2 Cobi S Journey",
+        "nes": "roms-gbc/53-dragon-warrior-monsters-2-cobi-s-journey.gbc",
+        "image": "roms-gbc/53-dragon-warrior-monsters-2-cobi-s-journey.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16877.jpg?1607608720"
+    },
+    {
+        "slug": "54-dragon-warrior-monsters",
+        "name": "Dragon Warrior Monsters",
+        "nes": "roms-gbc/54-dragon-warrior-monsters.gbc",
+        "image": "roms-gbc/54-dragon-warrior-monsters.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/36677.jpg?1658916239"
+    },
+    {
+        "slug": "55-dragon-quest-monsters-terry-no-wonderland",
+        "name": "Dragon Quest Monsters Terry No Wonderland",
+        "nes": "roms-gbc/55-dragon-quest-monsters-terry-no-wonderland.gbc",
+        "image": "roms-gbc/55-dragon-quest-monsters-terry-no-wonderland.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/67678.jpg?1607609094"
+    },
+    {
+        "slug": "56-spider-man",
+        "name": "Spider Man",
+        "nes": "roms-gbc/56-spider-man.gbc",
+        "image": "roms-gbc/56-spider-man.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/49160.jpg?1673177192"
+    },
+    {
+        "slug": "57-mario-golf",
+        "name": "Mario Golf",
+        "nes": "roms-gbc/57-mario-golf.gbc",
+        "image": "roms-gbc/57-mario-golf.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/70382.jpg?1619116452"
+    },
+    {
+        "slug": "58-rampage-world-tour",
+        "name": "Rampage World Tour",
+        "nes": "roms-gbc/58-rampage-world-tour.gbc",
+        "image": "roms-gbc/58-rampage-world-tour.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/64675.jpg?1583761926"
+    },
+    {
+        "slug": "59-dragon-ball-z-legendary-super-warriors",
+        "name": "Dragon Ball Z Legendary Super Warriors",
+        "nes": "roms-gbc/59-dragon-ball-z-legendary-super-warriors.gbc",
+        "image": "roms-gbc/59-dragon-ball-z-legendary-super-warriors.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16863.jpg?1659114689"
+    },
+    {
+        "slug": "60-robopon-sun-version",
+        "name": "Robopon Sun Version",
+        "nes": "roms-gbc/60-robopon-sun-version.gbc",
+        "image": "roms-gbc/60-robopon-sun-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/76927.jpg?1651927040"
+    },
+    {
+        "slug": "61-powerpuff-girls-bad-mojo-jojo",
+        "name": "Powerpuff Girls Bad Mojo Jojo",
+        "nes": "roms-gbc/61-powerpuff-girls-bad-mojo-jojo.gbc",
+        "image": "roms-gbc/61-powerpuff-girls-bad-mojo-jojo.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17529.jpg?1683983711"
+    },
+    {
+        "slug": "62-dragon-ball-z-les-guerriers-legendaires",
+        "name": "Dragon Ball Z Les Guerriers Legendaires",
+        "nes": "roms-gbc/62-dragon-ball-z-les-guerriers-legendaires.gbc",
+        "image": "roms-gbc/62-dragon-ball-z-les-guerriers-legendaires.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16863.jpg?1659114689"
+    },
+    {
+        "slug": "63-paperboy",
+        "name": "Paperboy",
+        "nes": "roms-gbc/63-paperboy.gbc",
+        "image": "roms-gbc/63-paperboy.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/35930.jpg?0"
+    },
+    {
+        "slug": "64-conker-s-pocket-tales",
+        "name": "Conker S Pocket Tales",
+        "nes": "roms-gbc/64-conker-s-pocket-tales.gbc",
+        "image": "roms-gbc/64-conker-s-pocket-tales.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16770.jpg?1599685981"
+    },
+    {
+        "slug": "65-turok-rage-wars",
+        "name": "Turok Rage Wars",
+        "nes": "roms-gbc/65-turok-rage-wars.gbc",
+        "image": "roms-gbc/65-turok-rage-wars.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17841.jpg?1682876151"
+    },
+    {
+        "slug": "66-men-in-black-series",
+        "name": "Men In Black Series",
+        "nes": "roms-gbc/66-men-in-black-series.gbc",
+        "image": "roms-gbc/66-men-in-black-series.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17297.jpg?1642763157"
+    },
+    {
+        "slug": "67-survival-kids",
+        "name": "Survival Kids",
+        "nes": "roms-gbc/67-survival-kids.gbc",
+        "image": "roms-gbc/67-survival-kids.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17716.jpg?1609958993"
+    },
+    {
+        "slug": "68-blaster-master-enemy-below",
+        "name": "Blaster Master Enemy Below",
+        "nes": "roms-gbc/68-blaster-master-enemy-below.gbc",
+        "image": "roms-gbc/68-blaster-master-enemy-below.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/50928.jpg?1491486215"
+    },
+    {
+        "slug": "69-shadowgate-classic",
+        "name": "Shadowgate Classic",
+        "nes": "roms-gbc/69-shadowgate-classic.gbc",
+        "image": "roms-gbc/69-shadowgate-classic.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/39627.jpg?1630763371"
+    },
+    {
+        "slug": "70-azure-dreams",
+        "name": "Azure Dreams",
+        "nes": "roms-gbc/70-azure-dreams.gbc",
+        "image": "roms-gbc/70-azure-dreams.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16641.jpg?1609962470"
+    },
+    {
+        "slug": "71-mr-driller",
+        "name": "Mr Driller",
+        "nes": "roms-gbc/71-mr-driller.gbc",
+        "image": "roms-gbc/71-mr-driller.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/39693.jpg?1629736929"
+    },
+    {
+        "slug": "72-yu-gi-oh-das-dunkle-duell",
+        "name": "Yu Gi Oh Das Dunkle Duell",
+        "nes": "roms-gbc/72-yu-gi-oh-das-dunkle-duell.gbc",
+        "image": "roms-gbc/72-yu-gi-oh-das-dunkle-duell.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/46790.jpg?1681122297"
+    },
+    {
+        "slug": "73-test-drive-off-road-3",
+        "name": "Test Drive Off Road 3",
+        "nes": "roms-gbc/73-test-drive-off-road-3.gbc",
+        "image": "roms-gbc/73-test-drive-off-road-3.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/16585.jpg?1541292056"
+    },
+    {
+        "slug": "74-rayman",
+        "name": "Rayman",
+        "nes": "roms-gbc/74-rayman.gbc",
+        "image": "roms-gbc/74-rayman.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17573.jpg?1610952865"
+    },
+    {
+        "slug": "75-tony-hawk-s-pro-skater-3",
+        "name": "Tony Hawk S Pro Skater 3",
+        "nes": "roms-gbc/75-tony-hawk-s-pro-skater-3.gbc",
+        "image": "roms-gbc/75-tony-hawk-s-pro-skater-3.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/38177.jpg?1399145041"
+    },
+    {
+        "slug": "76-r-type-dx",
+        "name": "R Type Dx",
+        "nes": "roms-gbc/76-r-type-dx.gbc",
+        "image": "roms-gbc/76-r-type-dx.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/76348.jpg?1647876506"
+    },
+    {
+        "slug": "1-pokemon-crystal-version",
+        "name": "Pokemon Crystal Version",
+        "nes": "roms-gbc/1-pokemon-crystal-version.gbc",
+        "image": "roms-gbc/1-pokemon-crystal-version.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/29356.jpg?1661068439"
+    },
+    {
+        "slug": "2-super-mario-bros-deluxe",
+        "name": "Super Mario Bros Deluxe",
+        "nes": "roms-gbc/2-super-mario-bros-deluxe.gbc",
+        "image": "roms-gbc/2-super-mario-bros-deluxe.jpg",
+        "imageurl": "https://www.romstation.fr/romstation/resources/games/gbc/cover/17726.jpg?1643548805"
+    }
+]
